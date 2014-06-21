@@ -16,7 +16,7 @@
 
 
 * ##### Easy editing of guessed themes and sentences
-<img src="http://i.imgur.com/jdWPrAl.png>
+<img src="http://i.imgur.com/jdWPrAl.png">
 
 ## Help
 <img src="http://i.imgur.com/d0fd5iE.png">
